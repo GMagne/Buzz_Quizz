@@ -1,0 +1,202 @@
+{
+	"nombre_de_jugadors" : 4,
+
+	
+	"diapositives":[
+	{
+		"tipus": 0,
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"musica": "musica/Alegria.mp3"
+
+	},
+
+	{
+		"tipus": 1,
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"musica": "musica/musica1.mp3"
+
+	},
+
+	{
+		"tipus": 2,
+
+		"imatge_de_fons": "imatges/background2.png",
+
+		"pregunta_o_titol": {
+			"text": "Benvinguts",
+			"tamany_lletra": 200,
+			"color": "black"
+		},
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/musica1.mp3"
+
+	},
+
+	{
+		"tipus": 3,
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/musica1.mp3"
+
+	},
+
+	{
+		"tipus": 4,
+
+		"imatge_de_fons": "imatges/background4.png",
+
+		"pregunta_o_titol": {
+			"text": "Escriu la pregunta\naquí!\nI abaix les opcions:",
+			"tamany_lletra": 100,
+			"color": "black"
+		},
+
+		"opcions":{
+			"text": ["Opció 1", "Opció 2", "Opció 3", "Correcte"],
+			"correcte": ["Correcte"],
+			"posicio_aleatoria": 0,
+			"tamany_lletra": 80,
+			"color": "black"
+		},
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/Alegria.mp3",
+
+		"temporitzador": 60
+	},
+
+	{
+		"tipus": 5,
+
+		"imatge_de_fons": "imatges/background5.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"opcions":{
+			"text": ["Opció 1", "Opció 2", "Opció 3", "Correcte"],
+			"correcte": ["Correcte"],
+			"posicio_aleatoria": 1,
+			"tamany_lletra": 80,
+			"color": "black"
+		},
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/jeopardy.ogg",
+
+		"temporitzador": 35
+	},
+
+	{
+		"tipus": 6,
+
+		"imatge_de_fons": "imatges/background2.png",
+
+		"pregunta_o_titol": {
+			"text": "Contesta el primer\n en pitjar el botó",
+			"tamany_lletra": 120,
+			"color": "black"
+		},
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/jeopardy.ogg"
+	},
+
+	{
+		"tipus": 7,
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/jeopardy.ogg"
+
+	},
+
+
+	{
+		"tipus": 8,
+
+		"imatge_de_fons": "imatges/background8.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/musica1.mp3"
+
+	},
+
+	{
+		"tipus": 9,
+
+		"imatge_de_fons": "imatges/background1.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "musica/musica1.mp3",
+
+		"temporitzador": 99
+
+	},
+
+
+	]
+}
