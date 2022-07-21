@@ -1,0 +1,66 @@
+{
+	"nombre_de_jugadors" : 4,
+
+	
+	"diapositives":[
+
+	{
+		"tipus": 0,
+
+		"pregunta_o_titol": {
+			"text": "Hola?",
+			"tamany_lletra": 100,
+			"color": "black"
+		},
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"imatge_1": "imatges/P4_icon.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "music/musica1.mp3"
+
+	},
+
+	{
+		"tipus": 1,
+
+		"pregunta_o_titol": {
+			"text": "Hola?",
+			"tamany_lletra": 18,
+			"color": "black"
+		},
+
+		"opcions":{
+			"incorrectes": ["Hola", "Adeu", "Hi"],
+			"correcta": "Hello there!",
+			"tamany_lletra": 12,
+			"color": "black"
+		},
+
+		"imatge_de_fons": "imatges/background.png",
+
+		"imatge_1": "imatges/icona.png",
+
+		"logo_jugador": [
+			"imatges/P1_icon.png",
+			"imatges/P2_icon.png",
+			"imatges/P3_icon.png",
+			"imatges/P4_icon.png"
+		],
+
+		"musica": "music/musica1.mp3",
+
+		"temporitzador": 0
+	}
+
+	]
+}
+
+
